@@ -1,0 +1,2 @@
+vhdl work "SPI_MOSI.vhd"
+vhdl work "SPI_MPSI_tb.vhd"

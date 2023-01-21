@@ -1,0 +1,27 @@
+xst -intstyle ise -ifn "C:/Users/user/Desktop/SPI/SPI_Dabaghi/SPI_MOSI.xst" -ofn "C:/Users/user/Desktop/SPI/SPI_Dabaghi/SPI_MOSI.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx45t-fgg484-3 SPI_MOSI.ngc SPI_MOSI.ngd  
+map -intstyle ise -p xc6slx45t-fgg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o SPI_MOSI_map.ncd SPI_MOSI.ngd SPI_MOSI.pcf 
+xst -intstyle ise -ifn "C:/Users/user/Desktop/SPI/SPI_Dabaghi/SPI_MOSI.xst" -ofn "C:/Users/user/Desktop/SPI/SPI_Dabaghi/SPI_MOSI.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx45t-fgg484-3 SPI_MOSI.ngc SPI_MOSI.ngd  
+map -intstyle ise -p xc6slx45t-fgg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o SPI_MOSI_map.ncd SPI_MOSI.ngd SPI_MOSI.pcf 
+xst -intstyle ise -ifn "C:/Users/user/Desktop/SPI/SPI_Dabaghi/SPI_MOSI.xst" -ofn "C:/Users/user/Desktop/SPI/SPI_Dabaghi/SPI_MOSI.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx45t-fgg484-3 SPI_MOSI.ngc SPI_MOSI.ngd  
+map -intstyle ise -p xc6slx45t-fgg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o SPI_MOSI_map.ncd SPI_MOSI.ngd SPI_MOSI.pcf 
+par -w -intstyle ise -ol high -mt off SPI_MOSI_map.ncd SPI_MOSI.ncd SPI_MOSI.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SPI_MOSI.twx SPI_MOSI.ncd -o SPI_MOSI.twr SPI_MOSI.pcf 
+xst -intstyle ise -ifn "C:/Users/user/Desktop/SPI_Dabaghi_VHDLprj/SPI_Dabaghi/SPI_MOSI.xst" -ofn "C:/Users/user/Desktop/SPI_Dabaghi_VHDLprj/SPI_Dabaghi/SPI_MOSI.syr" 
+xst -intstyle ise -ifn "C:/Users/user/Desktop/SPI_Dabaghi_VHDLprj/SPI_Dabaghi/SPI_MOSI.xst" -ofn "C:/Users/user/Desktop/SPI_Dabaghi_VHDLprj/SPI_Dabaghi/SPI_MOSI.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx45t-fgg484-3 SPI_MOSI.ngc SPI_MOSI.ngd  
+map -intstyle ise -p xc6slx45t-fgg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o SPI_MOSI_map.ncd SPI_MOSI.ngd SPI_MOSI.pcf 
+par -w -intstyle ise -ol high -mt off SPI_MOSI_map.ncd SPI_MOSI.ncd SPI_MOSI.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SPI_MOSI.twx SPI_MOSI.ncd -o SPI_MOSI.twr SPI_MOSI.pcf 
+xst -intstyle ise -ifn "C:/Users/user/Desktop/SPI_Dabaghi_VHDLprj/SPI_Dabaghi/SPI_MOSI.xst" -ofn "C:/Users/user/Desktop/SPI_Dabaghi_VHDLprj/SPI_Dabaghi/SPI_MOSI.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx45t-fgg484-3 SPI_MOSI.ngc SPI_MOSI.ngd  
+map -intstyle ise -p xc6slx45t-fgg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o SPI_MOSI_map.ncd SPI_MOSI.ngd SPI_MOSI.pcf 
+par -w -intstyle ise -ol high -mt off SPI_MOSI_map.ncd SPI_MOSI.ncd SPI_MOSI.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SPI_MOSI.twx SPI_MOSI.ncd -o SPI_MOSI.twr SPI_MOSI.pcf 
+xst -intstyle ise -ifn "C:/Users/user/Desktop/SPI_Dabaghi_VHDLprj/SPI_Dabaghi/SPI_MOSI.xst" -ofn "C:/Users/user/Desktop/SPI_Dabaghi_VHDLprj/SPI_Dabaghi/SPI_MOSI.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx45t-fgg484-3 SPI_MOSI.ngc SPI_MOSI.ngd  
+map -intstyle ise -p xc6slx45t-fgg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o SPI_MOSI_map.ncd SPI_MOSI.ngd SPI_MOSI.pcf 
+par -w -intstyle ise -ol high -mt off SPI_MOSI_map.ncd SPI_MOSI.ncd SPI_MOSI.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SPI_MOSI.twx SPI_MOSI.ncd -o SPI_MOSI.twr SPI_MOSI.pcf 
