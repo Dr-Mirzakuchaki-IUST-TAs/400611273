@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/user/Desktop/Dabaghi_VHDL_400611273/Code/SPI_Dabaghi_VHDLprj/SPI_Dabaghi/SPI_MPSI_tb_isim_beh.exe" -prj "C:/Users/user/Desktop/Dabaghi_VHDL_400611273/Code/SPI_Dabaghi_VHDLprj/SPI_Dabaghi/SPI_MPSI_tb_beh.prj" "work.SPI_MPSI_tb" 
